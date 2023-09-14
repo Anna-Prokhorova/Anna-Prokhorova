@@ -1,5 +1,5 @@
 ## Hi, everyone :cherry_blossom:	
-I'm Ana and I'm a novice developer. Currently looking for a job and trying to master my programming skills. 
+I'm Ana and I'm a junior Angular developer. Currently working for Digital Economy League. 
 
 ### About me:
 + :books: I’m currently studying at Bauman Moscow State University (master's program)
