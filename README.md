@@ -1,19 +1,18 @@
 ## Hi, everyone :cherry_blossom:	
-I'm Ana and I'm a junior Angular developer. Currently working for Digital Economy League. 
+I'm Ana and I'm a teamlead Angular developer. Currently working for Digital Economy League. 
 
 ### About me:
-+ :books: I’m currently studying at Bauman Moscow State University (master's program)
++ :books: I’ve graduated from Bauman Moscow State University
 + :woman_teacher: I've helped more than 20 students pass school final exams in computer science
-+ :rainbow: I love sup surfing, board games and web-design
++ :rainbow: I love sup surfing, board games and d&d
 
 ### Skills:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://entredatos.es/wp-content/uploads/2021/05/1200px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://media.tproger.ru/uploads/2020/12/git_guide_for_beginners-cover-icon-original.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
